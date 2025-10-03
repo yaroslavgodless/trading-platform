@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "market-data",
+    "bot",
+    "strategy",
+]
+resolver = "2"
